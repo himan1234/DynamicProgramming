@@ -54,7 +54,7 @@ public class BinaryTree {
 	}
 	
 	public void rightHandView(Node root){
-		
+		System.out.println("hhbk");
 	}
 	
 	
